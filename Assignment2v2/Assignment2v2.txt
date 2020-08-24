@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/Player.cpp.o ./Debug/Admin.cpp.o ./Debug/Complete.cpp.o ./Debug/MCQ.cpp.o ./Debug/User.cpp.o ./Debug/TrueOrFalse.cpp.o ./Debug/Question.cpp.o   
